@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TheSierrasMapResource.iml" filepath="$PROJECT_DIR$/TheSierrasMapResource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheSierrasMapResource-TheSierrasMapResource.iml" filepath="$PROJECT_DIR$/TheSierrasMapResource-TheSierrasMapResource.iml" group="TheSierrasMapResource" />
+      <module fileurl="file://$PROJECT_DIR$/app/TheSierrasMapResource-app.iml" filepath="$PROJECT_DIR$/app/TheSierrasMapResource-app.iml" group="TheSierrasMapResource/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
